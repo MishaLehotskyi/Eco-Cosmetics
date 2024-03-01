@@ -1,4 +1,4 @@
-# MY BIKE landing page
+# ECO COSMETICS landing page
 
 [Mockup](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students)
 [Preview](https://MishaLehotskyi.github.io/Eco-Cosmetics/)
