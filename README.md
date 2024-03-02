@@ -10,7 +10,7 @@ It is adaptive for different screens:
 * Tablet > 768px
 * Mobile > 320px
 
-I used:
+Technologies used:
 * HTML, SCSS, JS
 * BEM
 * flexbox, grid

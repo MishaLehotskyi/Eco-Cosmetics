@@ -72,6 +72,10 @@
       margin-bottom: 30px;
     }
 
+    &:-webkit-autofill {
+      background-color: $c-off-white;
+    }
+
     &--tel {
       margin-bottom: 45px;
 
